@@ -1,0 +1,37 @@
+*{
+    padding-right: 9px;
+    padding-left: 18px;
+}
+h1 {
+    text-align: center;
+    font-family: Philosopher;
+    font-size: 54px;
+    text-decoration: underline;
+}
+h2 {
+    text-align: center;
+    padding-bottom: 18px;    
+}
+.notetext {
+    text-align: justify;
+    /* text-transform: uppercase; */
+    font-size: 13px;
+    font-family: Montserrat;
+    font-style: italic;
+}
+.introduction {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    padding-top: 18px;
+}
+.codephpstar{
+    text-align: center;
+}
+.introduction-code {
+    border: 1px solid burlywood;
+    border-radius: 9px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
