@@ -60,3 +60,23 @@ h2 {
     background-blend-mode: overlay;
     border-radius: 9px;
 }
+
+.php-tags{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    padding-top: 18px;
+    background: rgb(255, 255, 255, 0.8);
+    background-image: url(image/bg-teg.jpg);
+    background-blend-mode: overlay;
+    border-radius: 9px;  
+}
+
+.php-lit-idn-isnt{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 18px;
+    padding-top: 18px;
+    background: rgb(255, 255, 255, 0.8);
+    background-image: url(image/bg-literal.png);
+    background-blend-mode: overlay;
+    border-radius: 9px;  
+}
